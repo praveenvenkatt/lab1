@@ -2,7 +2,7 @@
 ## AIM:
 To install Autopsy software on windows operating system.
 ## EQUIPMENT REQUIRED:
-- ●	Hardware: Personal Computer (PC)
+- Hardware: Personal Computer (PC)
   
 ## Installation PROCEDURE:
 ### Step1:Download Autopsy
